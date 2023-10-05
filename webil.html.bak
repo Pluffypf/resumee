@@ -20,9 +20,9 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="mx-auto p-3" style="width: 200px;"> <img alt="pf2"
+        <div class="mx-auto p-3" style="width: 200px;"> <img alt="pf2" src="images/pf2.PNG"
 
-            src="images/pf2.PNG" class="rounded-circle img-fluid"> </div>
+            class="rounded-circle img-fluid"> </div>
         <div class="row">
           <div class="mx-auto p-3" style="width: 500px;">
             <h1 style="text-align: center;">&nbsp; N A M H O M </h1>
@@ -147,7 +147,7 @@
             <h3 style="text-align: center;"><br>
             </h3>
             <h3 style="text-align: center;"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <img src="images/starr.PNG" alt="starr" style="width: 749px; height: 78px;"
+                <img src="images/starr.png" alt="starr" style="width: 844px; height: 87px;"
 
                   class="img-fluid"></b></h3>
             <br>
