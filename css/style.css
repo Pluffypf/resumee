@@ -1,0 +1,33 @@
+body {
+  background-color: #fff9e2;
+  color: #3b5c8d;
+}
+
+h1{
+ font-family: 'Josefin Sans', sans-serif;
+   color: #3b5c8d;
+}
+h3{
+ font-family: 'Josefin Sans', sans-serif;
+   color: #3b5c8d;
+}
+
+p {
+ font-family: 'Josefin Sans', sans-serif;
+   color: black;
+}
+
+a {
+ font-family: 'Josefin Sans', sans-serif;
+  color: #3b5c8d;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: #3b5c8d;
+}
